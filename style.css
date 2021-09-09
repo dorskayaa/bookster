@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  visibility: hidden;
+  height: 1px;
+  margin: 0;
+}
+
+.container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text {
+  font-family: 'PT Sans', sans-serif;
+  width: 400;
+  color: #808080;
+  font-size: 1.5rem;
+}
